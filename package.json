@@ -1,0 +1,28 @@
+{
+  "name": "kooce-davzz-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "express": "^4.16.3",
+    "utf-8-validate": "^5.0.1",
+    "ws": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dbrrohof/kooce-davzz-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dbrrohof/kooce-davzz-v2/issues"
+  },
+  "homepage": "https://github.com/Dbrrohof/kooce-davzz-v2#readme"
+}
